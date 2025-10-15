@@ -6,6 +6,7 @@ int main()
 	scanf("%d",&year);
 	if (year%4==0)
 	{
+		print("hello");
 		printf("the year is a leapyear");
 	}
 	else
